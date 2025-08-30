@@ -51,3 +51,9 @@ Untuk menjalankan proyek ini, pastikan Anda memiliki **Python versi 3.11** atau 
 
 3.  **Akses Platform:**
     Buka browser Anda dan kunjungi alamat yang ditampilkan di terminal, biasanya `http://127.0.0.1:5000/`.
+
+
+## Kontributor
+- Zulkarnain - Front End
+- Devina - Back End
+    
